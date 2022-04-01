@@ -183,8 +183,7 @@
 
                                                   <div class="product_extras">
                                                     <button id="{{ $row->id }}" class="product_cart_button addcart" data-toggle="modal" data-target="#cartmodal"  onclick="productview(this.id)">Add to Cart</button>
-                                                 
-                                                </div>
+                                                 </div>
 
 
 
@@ -344,9 +343,7 @@
                                                 <div class="product_name"><div><a href="#">
                                                     {{ $row->product_name }}
                                                 </a></div></div>
-                                                <div class="product_extras">
-                                                    <button class="product_cart_button">Add to Cart</button>
-                                                </div>
+                                                <button id="{{ $row->id }}" class="product_cart_button addcart" data-toggle="modal" data-target="#cartmodal"  onclick="productview(this.id)">Add to Cart</button>
                                             </div>
                                              <button  
                                                class="addwishlist" data-id="{{ $row->id }}"> 
