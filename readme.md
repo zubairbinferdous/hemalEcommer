@@ -27,3 +27,10 @@ DB_PASSWORD=
 
 now we ready to go 
 
+## How to Admin login 
+
+url/admin 
+admin@gmail.com
+12345678
+
+
