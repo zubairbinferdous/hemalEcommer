@@ -229,7 +229,7 @@
 
     <!-- Popular Categories -->
 
-@php
+{{-- @php
  $category=DB::table('categories')->get();
 @endphp
     <div class="popular_categories">
@@ -262,7 +262,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 
     <!-- Banner -->
 @php 
