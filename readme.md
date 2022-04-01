@@ -7,8 +7,16 @@ this project have add to cart , search option ,
 full management system to take order and delivery the product ,
 both fontend and backend control by laravel ,
 
+## How to Open file 
+at first you have to open terminal (where is you file),
+and write Composer Commands (php artisen serve),
+then commands (npm install) -> (npm run dev) -> (npm run watch).{ becouse when you uplode laravel file in github , you should ignore this 
+type of file , it also mention in .gitignore file}
 
-## How to Deploy
+then you have to make a .env file (open .env.example copy all data and past to .env file you create).
+
+
+## How to Add Database
 
 at first you have to go main file and upload the database (db1417304.SQL) on your server
 now go to the project file open .env file and change the ,

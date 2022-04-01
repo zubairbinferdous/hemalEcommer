@@ -51,18 +51,18 @@
                         <div class="top_bar_content ml-auto">
                             <div class="top_bar_menu">
                                 <ul class="standard_dropdown ">
-                                  
+{{--                                   
                                     <li>
                                        <a href="#" data-toggle="modal" data-target="#exampleModal">My Order Traking</a>
                                         
-                                    </li>
+                                    </li> --}}
                              
                                 </ul>
                             </div>&nbsp;&nbsp;&nbsp;
 
                           
 
-
+{{-- 
                             <div class="top_bar_menu">
                                 <ul class="standard_dropdown ">
                                     @php 
@@ -78,7 +78,8 @@
                                     </li>
                              
                                 </ul>
-                            </div>
+                            </div> --}}
+
                             <div class="top_bar_user">
                                 
                                 @guest
